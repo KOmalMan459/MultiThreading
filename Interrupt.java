@@ -19,3 +19,5 @@ public class Interrupt extends Thread{
     }
     
 }
+
+//yield method -- gives chance to others threads toS 
